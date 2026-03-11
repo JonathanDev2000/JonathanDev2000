@@ -39,7 +39,6 @@ Sou desenvolvedor web com foco em front-end, automação de processos e ciência
   <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
 ---
@@ -48,7 +47,7 @@ Sou desenvolvedor web com foco em front-end, automação de processos e ciência
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [TechNotebooks Site](https://www.technotebooks.com.br) | Site institucional para empresa de manutenção de notebooks com agendamento e orçamento online | HTML, CSS, JS, Netlify |
+| [TechNotebooks Site](https://www.technotebooks.com.br) | Site institucional para empresa de manutenção de notebooks com formulário de orçamento online | HTML, CSS, JavaScript |
 | [Análise de Risco de Crédito](https://github.com/JonathanDev2000) | TCC: modelo preditivo de risco de crédito usando Machine Learning (CRISP-DM) | Python, Scikit-learn, Pandas |
 | [Automação com N8N + IA](https://github.com/JonathanDev2000) | Fluxos de automação integrando APIs de IA para geração de conteúdo e vídeos | N8N, APIs REST, FFmpeg |
 
